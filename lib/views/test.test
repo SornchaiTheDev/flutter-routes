@@ -1,0 +1,32 @@
+// drawer: Drawer(
+      //   child: ListView(
+      //     padding: EdgeInsets.zero,
+      //     children: [
+      //       DrawerHeader(
+      //         decoration: const BoxDecoration(color: Colors.blue),
+      //         child: Text(
+      //           "Menus",
+      //           style: Theme.of(context).textTheme.headlineLarge,
+      //         ),
+      //       ),
+      //       ListTile(
+      //         title: const Text("Home"),
+      //         trailing: const Icon(Icons.home),
+      //         onTap: () => drawerNavigate(0),
+      //         selected: currentIndex == 0,
+      //       ),
+      //       ListTile(
+      //         title: const Text("About"),
+      //         trailing: const Icon(Icons.person),
+      //         onTap: () => drawerNavigate(1),
+      //         selected: currentIndex == 1,
+      //       ),
+      //       ListTile(
+      //         title: const Text("Settings"),
+      //         trailing: const Icon(Icons.settings),
+      //         onTap: () => drawerNavigate(2),
+      //         selected: currentIndex == 2,
+      //       ),
+      //     ],
+      //   ),
+      // ),
